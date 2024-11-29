@@ -64,13 +64,13 @@ For questions, support, or more information, please contact us at [info@kneexper
 For More Details
 ## Contact Us
 For more information or to book an appointment:  
-📞 Phone: *82230-83555*  
-📧 Email: info@kneexpert.in  
+📞 : *82230-83555*  
+📧 : info@kneexpert.in  
 🌐 [Knee Xpert](https://kneexpert.in)
 
 ### Follow Us
 Stay connected with us for updates and health tips!  
-- 🌐 [Facebook](https://www.facebook.com/kneexpert)  
-- 🌐 [Instagram](https://www.instagram.com/knee_xpert/)  
-- 🌐 [LinkedIn](https://www.linkedin.com/company/sahaj-knee-xpert?originalSubdomain=in)  
-- 🌐 [YouTube](https://www.youtube.com/@KneeXpert)
+ 🌐 [Facebook](https://www.facebook.com/kneexpert)  
+ 🌐 [Instagram](https://www.instagram.com/knee_xpert/)  
+ 🌐 [LinkedIn](https://www.linkedin.com/company/sahaj-knee-xpert?originalSubdomain=in)  
+ 🌐 [YouTube](https://www.youtube.com/@KneeXpert)
