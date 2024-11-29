@@ -63,6 +63,12 @@ For questions, support, or more information, please contact us at [info@kneexper
 
 For more details, visit our official website: [https://www.kneexpert.in](https://www.kneexpert.in).
 
+## Contact Us
+For more information or to book an appointment:  
+📞 Phone: *82230-83555*  
+📧 Email: info@kneexpert.in  
+🌐 [Sahaj Hospital Website](https://kneexpert.in)
+
 ### Follow Us
 Stay connected with us for updates and health tips!  
 - 🌐 [Facebook](https://www.facebook.com/kneexpert)  
