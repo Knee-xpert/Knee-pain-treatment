@@ -74,4 +74,4 @@ Stay connected with us for updates and health tips!
  🌐 [Instagram](https://www.instagram.com/knee_xpert/)  
  🌐 [LinkedIn](https://www.linkedin.com/company/sahaj-knee-xpert?originalSubdomain=in)  
  🌐 [YouTube](https://www.youtube.com/@KneeXpert)
- 🌐 [Pinterest](https://in.pinterest.com/knee_xpert/)
+ 
