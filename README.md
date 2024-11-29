@@ -3,7 +3,8 @@
 The **Knee Pain Treatment and Knee Score Checker** is a tool designed to help individuals assess their knee health, track their pain levels, and find effective treatments. Whether you're dealing with chronic knee pain or recovering from an injury, this tool can guide you through self-assessment and recommend treatment options. 
 
 For more detailed information and resources, visit our official website: [https://www.kneexpert.in](https://www.kneexpert.in).
-https://github.com/user-attachments/assets/4c689156-7124-430d-bdc0-b10cc9867218
+![Knee Xpert Logo](https://github.com/user-attachments/assets/4c689156-7124-430d-bdc0-b10cc9867218)
+
 ## Features
 
 - **Knee Pain Assessment:** Provides a simple and easy-to-understand way to assess your knee pain level using a Knee Score.
