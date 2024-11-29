@@ -61,8 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, support, or more information, please contact us at [info@kneexpert.in](mailto:info@kneexpert.in).
 
-For more details, visit our official website: [https://www.kneexpert.in](https://www.kneexpert.in).
-
+For More Details
 ## Contact Us
 For more information or to book an appointment:  
 📞 Phone: *82230-83555*  
