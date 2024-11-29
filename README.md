@@ -59,6 +59,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For questions, support, or more information, please contact us at [support@kneexpert.in](mailto:support@kneexpert.in).
+For questions, support, or more information, please contact us at [support@kneexpert.in](mailto:info@kneexpert.in).
 
 For more details, visit our official website: [https://www.kneexpert.in](https://www.kneexpert.in).
+
+### Follow Us
+Stay connected with us for updates and health tips!  
+- 🌐 [Facebook](https://www.facebook.com/kneexpert)  
+- 🌐 [Instagram](https://www.instagram.com/knee_xpert/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/company/sahaj-knee-xpert?originalSubdomain=in)  
+- 🌐 [YouTube](https://www.youtube.com/@KneeXpert)
