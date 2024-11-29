@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For questions, support, or more information, please contact us at [support@kneexpert.in](mailto:info@kneexpert.in).
+For questions, support, or more information, please contact us at [info@kneexpert.in](mailto:info@kneexpert.in).
 
 For more details, visit our official website: [https://www.kneexpert.in](https://www.kneexpert.in).
 
